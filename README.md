@@ -1,7 +1,7 @@
 # Referral program POC
 
 
-## smart contract managed referrals campaigns
+## Referral Campaigns Managed by Smart Contracts Utilizing ERC-1167: Minimal Proxy Contracts
 
 &nbsp;
 
